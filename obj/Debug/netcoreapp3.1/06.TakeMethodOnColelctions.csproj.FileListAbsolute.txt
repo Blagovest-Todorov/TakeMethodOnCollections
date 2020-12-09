@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\bin\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.exe
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\bin\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\bin\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\bin\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\bin\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.dll
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\bin\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\obj\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\obj\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\obj\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\obj\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.dll
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\obj\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\06.TakeMethodOnColelctions\obj\Debug\netcoreapp3.1\06.TakeMethodOnColelctions.genruntimeconfig.cache
