@@ -1,0 +1,2 @@
+# TakeMethodOnCollections
+take() Method
